@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alexdjulin
+- 👋 Howdy, I’m Alex
 - 👀 I’m passionate about AI, Computer Vision and Software Development.
-- 🌱 I’m currently looking for a job in Berlin (Germany).
+- 🌱 I’m currently looking for a job in Berlin (Germany) or remote.
 - 💞️ I’m open to collaborate on any kind of projects.
 - 📫 How to reach me: [GitHub](https://github.com/alexdjulin) - [EMail](mailto:alexdjulin@gmail.com) - [LinkedIn](https://www.linkedin.com/in/alexdjulin/) - [DEV blog](https://dev.alexdjulin.ovh/)
 <!---
