@@ -1,5 +1,5 @@
 - 👋 Howdy, I’m Alexandre!
-- 🤖 I’m passionate about AI, Computer Vision and Software Development.
+- 🤖 I’m passionate about Generative AI, Machine Learning and Software Development.
 - 💻 I’m currently looking for a job in Berlin (Germany) or remote.
 - 💞️ I’m open to collaborate on any kind of projects.
 - 🏃🏻 In my spare time, I like trail running, cooking and playing the blues harmonica.
