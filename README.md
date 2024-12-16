@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to my GitHub profile!
 
 - 👋 Howdy, I’m Alexandre!
 - 🤖 I’m passionate about Generative AI, Machine Learning and Software Development.
