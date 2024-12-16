@@ -29,7 +29,7 @@ Alice is a robust conversational chatbot created to answer user queries about bo
 3. [Intent Classifier for Customer Service](https://github.com/alexdjulin/openai-intent-classifier)  -  _Assist your customers, fast and efficiently_  
    This project implements a zero- or few-shot intent classifier based on a fine-tuned GPT3 model, that can be used to provide inferencing service via an HTTP Service.
 
-4. [Spotify Playlist Generator](https://github.com/alexdjulin/spotify-playlist-generator)  -  _Out of ideas? Create playlists from a prompt_
+4. [Spotify Playlist Generator](https://github.com/alexdjulin/spotify-playlist-generator)  -  _Out of ideas? Create playlists from a prompt_  
    This project implements a command-line Spotify playlist generator, based on an input prompt.
 
 ## Computer Vision
